@@ -1,0 +1,33 @@
+CPP -- cpp is pragramming language .
+
+cpp devloped by Bjarne stroustrup.
+
+cpp devloped by Bjarne stroustrup in 1997.
+
+cpp first name is c with class 
+
+C language is a procedure oriented language.  -- mainly used in function
+Cpp is a Object oriented language. -- 
+1) class 
+2) Object 
+3) encapsulation
+4) inheritance 
+5) polymorphism
+6) abstraction
+
+
+c language :
+printf()
+scanf()
+
+
+cpp language :
+cout -- c stands for character and out stands for outputs
+cin -- cin stands for character input 
+
+<< stands for insertion operator 
+
+
+std is a standard namespace of c++. 
+- using namespace std 
+std:: cout<<"";
