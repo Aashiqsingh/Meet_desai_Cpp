@@ -31,3 +31,5 @@ cin -- cin stands for character input
 std is a standard namespace of c++. 
 - using namespace std 
 std:: cout<<"";
+
+.
